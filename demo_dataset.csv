@@ -1,0 +1,11 @@
+name,age,city,salary,weight
+Alice,25,New York,55000,58
+Bob,30,Los Angeles,62000,72
+Charlie,28,Chicago,60000,68
+David,35,Houston,72000,80
+Emma,27,Phoenix,58000,55
+Frank,NaN,Philadelphia,85000,85
+Grace,32,San Antonio,67000,60
+Henry,29,San Diego,61000,74
+Isabella,26,Dallas,59000,52
+Jack,33,San Jose,70000,78
